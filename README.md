@@ -24,7 +24,7 @@
   <section>
     <h2>Hi, I'm Christina!</h2>
       <div style="text-align: center;">
-    <img src="me.jpg" alt="Photo of Christina" width="300" style="border-radius: 10px;">
+    <img src="me.jpeg" alt="Photo of Christina" width="300" style="border-radius: 10px;">
   </div>
     <p>I'm a mechanical engineering student at Stevens Institute of Technology with a passion for aerospace propulsion, CAD modeling, and computational fluid dynamics (CFD). I love taking real engineering problems and solving them with a mix of creativity and technical tools — from SolidWorks and MATLAB to ANSYS and Arduino.Outside of the lab, I'm deeply involved in student leadership, mentorship, and building spaces where more women and underrepresented students can thrive in STEM. This portfolio is a collection of my favorite projects, technical skills, and proudest accomplishments. Take a look around!</p>
   </section>
