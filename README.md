@@ -12,7 +12,7 @@
 
   <nav>
     <ul>
-      <li><a href="experince.html"> Experince</a></li>
+      <li><a href="experience.html"> Experience</a></li>
       <li><a href="cad.html">CAD Projects</a></li>
       <li><a href="certs.html">Certifications</a></li>
       <li><a href="cfd.html">CFD Simulations</a></li>
