@@ -4,9 +4,7 @@
 
 Welcome to my personal engineering portfolio! This site showcases my technical skills, student leadership, and hands-on experience through a curated collection of my work.
 
-🌐 **View my live website:**  
-➡️ [here]([[https://christina-alexandrov.github.io](https://chrisalex456.github.io/christina-alexandrov.github.io/)](https://chrisalex456.github.io/christina-alexandrov.github.io/))
-
+🌐 **View my live website: https://chrisalex456.github.io/christina-alexandrov.github.io/ **
 ---
 
 ## 🔍 What's Inside
