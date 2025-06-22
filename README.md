@@ -8,11 +8,12 @@
 <body>
 
   <header>
-    <h1>About Me</h1>
+    <h1>Home </h1>
   </header>
 
   <nav>
     <ul>
+       <li><a href="experince.html"> Experince</a></li
       <li><a href="cad.html">CAD Projects</a></li>
       <li><a href="certs.html">Certifications</a></li>
       <li><a href="cfd.html">CFD Simulations</a></li>
