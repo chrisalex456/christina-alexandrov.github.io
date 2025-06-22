@@ -1,1 +1,65 @@
+/* Style the whole page */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #e6f2ff; /* light blue background */
+  margin: 0;
+  padding: 0;
+}
+
+/* Style the header section */
+header {
+  background-color: #001f3f; /* navy */
+  color: white;
+  padding: 2rem;
+  text-align: center;
+}
+
+/* Style the main heading */
+header h1 {
+  margin: 0;
+}
+
+/* Style the navigation menu */
+nav ul {
+  display: flex;
+  justify-content: center;
+  gap: 1.5rem;
+  list-style: none;
+  background-color: #cce6ff; /* light blue-gray nav */
+  padding: 1rem;
+  margin: 0;
+}
+
+/* Style nav links */
+nav a {
+  text-decoration: none;
+  color: #001f3f;
+  font-weight: bold;
+  transition: 0.3s;
+}
+
+nav a:hover {
+  color: #0074D9; /* bright blue on hover */
+}
+
+/* Page content sections */
+section {
+  max-width: 800px;
+  margin: 2rem auto;
+  padding: 1.5rem;
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+/* Paragraphs inside sections */
+section p {
+  line-height: 1.6;
+}
+
+/* Image styling */
+img {
+  max-width: 100%;
+  border-radius: 10px;
+}
 
